@@ -21,8 +21,9 @@
   1. #!zh: h5 快速制作平台，类似于开源版本的易企秀、人人秀，可以通过拖拽的形式，快速生成H5.
   2. #!en: a open source online platform that features enables users to build mobile web pages and share their visual ideas online. With easy drop-and-drag editing features, users can create their designs either choosing templates from our extensive library or uploading your own images that starts from scratch.
 
+- [Unicode CLDR SurveyTool](https://cldr.unicode.org/index/survey-tool)
 
-
+  1. #!en: CLDR provides key building blocks for software to support the world's languages, with the largest and most extensive standard repository of locale data available. Translations in the Unicode Common Locale Data Repository are gathered and processed via what is called the Survey Tool, an online tool that can be used to view data for different languages and propose additions or changes. The tool is open source at <https://github.com/unicode-org/cldr.git>
 
 ## Plugin
 
